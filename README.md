@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install @umm/animator_accessor
+$ npm install github:umm-projects/animator_accessor.git
 ```
 
 # Usage
