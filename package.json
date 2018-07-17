@@ -2,9 +2,9 @@
   "name": "@umm/animator_accessor",
   "version": "1.2.0",
   "description": "Provide accessor for Animator",
-  "homepage": "https://github.com/umm-projects/animator_accessor",
+  "homepage": "https://github.com/umm/animator_accessor",
   "bugs": {
-    "url": "https://github.com/umm-projects/animator_accessor/issues"
+    "url": "https://github.com/umm/animator_accessor/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,15 +22,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/animator_accessor"
+    "url": "git@github.com:umm/animator_accessor"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/accessor_utility_monobehaviour": "umm-projects/accessor_utility_monobehaviour#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/accessor_utility_monobehaviour": "umm/accessor_utility_monobehaviour#^1.0.0",
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
